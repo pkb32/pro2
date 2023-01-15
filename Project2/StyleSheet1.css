@@ -1,0 +1,36 @@
+﻿body{
+        background-color:#bbff00;
+  }
+  hr{
+      background-color:none;
+      border-style: none;
+      border-top-style:dotted;
+      border-color:#FF0032;
+      border-width:5px;
+      width:98%;
+  }
+  .line5
+  {
+    background-color:none;
+      border-style: none;
+      border-top-style:dotted;
+      border-color:#EEEEEE;
+      border-width:5px;
+      width:98%;
+  }
+  h1{
+        color:#FF008E;
+  }
+  h3{
+        color:#94B3FD;
+  }
+  img
+  {
+        border-style: inset;
+        border-color:red;
+  }
+  .circular:hover
+  {
+        border-radius:15%;
+        border-color:gold;
+  }
